@@ -217,7 +217,7 @@ ul li, ol li {
 
 .btn-common {
   background-image: linear-gradient(65deg, #008d97 0, #2dbcb6 100%);
-  box-shadow: 0 8px 16px rgba(255, 77, 121, 0.25);
+  box-shadow: 0 8px 16px rgba(0, 152, 163, 0.25);
   position: relative;
   z-index: 1;
 }
@@ -225,7 +225,7 @@ ul li, ol li {
 .btn-common:hover {
   color: #fff;
   background-image: linear-gradient(65deg, #f68b1f 0, #ffcb05 100%);
-  box-shadow: 0 8px 16px rgba(255, 77, 121, 0.4);
+  box-shadow: 0 8px 16px rgba(255, 187, 0, 0.4);
   transition: all .2s ease-in-out;
   -moz-transition: all .2s ease-in-out;
   -webkit-transition: all .2s ease-in-out;
@@ -2379,7 +2379,7 @@ footer {
 3. Hero Area
 ========================================================================== */
 .hero-area-bg {
-  background: url(../img/hero-area.jpg) no-repeat;
+  background: url(../img/area.jpg) no-repeat;
   background-size: cover;
 }
 
@@ -2395,7 +2395,7 @@ footer {
   height: 100%;
   top: 0px;
   left: 0px;
-  background: rgba(0, 0, 0, 0.7);
+  background: rgba(0, 0, 0, 0.6);
 }
 
 #hero-area .contents {
